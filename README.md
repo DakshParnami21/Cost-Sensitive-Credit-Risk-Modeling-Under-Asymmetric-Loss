@@ -12,7 +12,7 @@ The workflow extends beyond standard evaluation metrics by incorporating probabi
 - Compare Logistic Regression and Random Forest across multiple evaluation dimensions
 - Handle class imbalance using SMOTE
 - Optimize decision threshold to minimize financial cost
-- Explain individual predictions using SHAP values
+- Explain individual predictions using SHAP values 
 - Verify probability reliability using calibration curves
 
 ---
